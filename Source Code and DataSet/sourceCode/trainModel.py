@@ -51,4 +51,4 @@ model.fit(
         validation_data=testDataGenerator,
         validation_steps=112
 )
-model.save('model.h5')
+# model.save('model.h5')
